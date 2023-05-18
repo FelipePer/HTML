@@ -19,16 +19,19 @@
 
 }
 .perfil {
-     position: absolute;
-    color: white;"
-    width: 200.6px;
-    left: 780px;
-    top: 660.32px;
+ 
+    
+    color: rgb(255, 255, 255);
+    width: 25%;
+
+    left: 700px;
+    top: 656.32px;
     font-family: 'Kavoon';
     font-style: normal;
-    font-weight: 420;
-    font-size: 14.5709px;
+    font-weight: 4200;
+    font-size: 16.5709px;
     line-height: 16px;
+   
     
 
 }
